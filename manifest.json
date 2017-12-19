@@ -1,0 +1,18 @@
+{
+
+    "description": "Fix all Abel Pintos occurencies",
+    "manifest_version": 2,
+    "name": "AbelFixer",
+    "version": "1.2",
+    "homepage_url": "https://github.com/xeBuz/AbelFixer",
+    "icons": {
+        "48": "icons/abel-48.png",
+        "96": "icons/abel-96.png"
+    },
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["abelfixer.js"]
+        }
+    ]
+}
