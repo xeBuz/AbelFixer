@@ -1,8 +1,6 @@
 let existAbel = document.body.innerHTML.search('Abel Pintos');
 let isYoutube = window.location.href.search("youtube.com");
 
-console.log("ABEL", existAbel, isYoutube);
-
 // Check if exist in page.
 if (existAbel > 0) {
     let name = 'Raúl';
