@@ -21,4 +21,4 @@ Abrir este link (o cualquier otro) https://www.clarin.com/espectaculos/musica/ab
 
 ## Disclaimer
 
-Tiene cero optimización, y quizs pueda romper algún sitio
+Tiene cero optimización, y quizás pueda romper algún sitio
