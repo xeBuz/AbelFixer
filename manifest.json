@@ -3,7 +3,7 @@
     "description": "Fix all Abel Pintos occurencies",
     "manifest_version": 2,
     "name": "AbelFixer",
-    "version": "1.3",
+    "version": "1.4",
     "homepage_url": "https://github.com/xeBuz/AbelFixer",
     "icons": {
         "48": "icons/abel-48.png",
